@@ -1,0 +1,109 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.header {
+    background-color: #000000;
+    color: #ffffff;
+    height: 120px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header img {
+    height: 105px;
+    width: 150px;
+}
+
+header h1 {
+    max-width: 700px;
+}
+
+.team {
+    font-size: 20px;
+}
+
+header button {
+    background-color: #ffa500;
+    height: 80px;
+    width: 200px;
+    font-size: xx-large;
+    margin-right: 10px;
+}
+
+#blauw {
+    color: #00bfff;
+    max-width: 200px;
+}
+
+body {
+    background-color: #263382;
+    color: #ffffff;
+}
+
+#smallquote {
+    font-size: 70px;
+    margin-left: 320px;
+    margin-top: 8px;
+}
+
+#defender {
+    font-size: 70px;
+    margin-left: 180px;
+    margin-top: 8px;
+}
+
+.quote h2 {
+    font-size: 200px;
+    margin-left: 320px;
+}
+
+#bodyimg img {
+    height: 400px;
+    width: 530px;
+    margin-left: 930px;
+    margin-top: -500px;
+}
+
+#illustratie {
+    margin-top: 50px;
+    width: 1519px;
+}
+
+.tiktok video{
+    padding: 30px;
+    border: #ffffff;
+    border-radius: 50px;
+    margin-top: 20px;
+}
+
+.tiktok h3 {
+    font-size: 50px;
+    margin-left: 30px;
+    margin-top: 8px;
+    margin-top: 50px;
+}
+
+.posters {
+    height: 600px;
+    padding: 35px;
+}
+
+.footer {
+    background-color: #000000;
+    color: #ffffff;
+    height: 65px;
+
+}
+
+.footer h3 {
+    margin-left: 580px;
+}
+
+.footer h4 {
+    margin-left: 650px;
+    margin-top: -15px;
+}
